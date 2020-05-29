@@ -35,7 +35,7 @@ public class VolvoOnCallBindingConstants {
 
     // The URL to use to connect to VocAPI with.
     // TODO : for North America and China syntax changes to vocapi-cn.xxx
-    public static final String SERVICE_URL = "https://vocapi.wirelesscar.net/customerapi/rest/v3.0/";
+    public static final String SERVICE_URL = "https://vocna.wirelesscar.net/customerapi/rest/v3.0/";
 
     // The JSON content type used when talking to VocAPI.
     public static final String JSON_CONTENT_TYPE = "application/json";
